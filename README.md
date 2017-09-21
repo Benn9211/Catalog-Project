@@ -52,7 +52,7 @@ go to http://localhost/categories to access the application
   "" Clone this repository ('https://github.com/Benn9211/Full-stack-Vangrant-repos')
    - To Run
    - Launch Vagrant VM by running vagrant up, you can the log in with vagrant ssh
-   - To load the data, use the command psql -d news -f newsdata.sql to connect a database and run the necessary SQL statements.""
+   
   # OR
    - You can run Putty on windows in order run vagrant file.('https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html')
 
