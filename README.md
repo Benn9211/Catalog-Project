@@ -1,4 +1,4 @@
-# catalog-project
+# Catalog-project
 
 # To Run
 
