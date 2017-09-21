@@ -12,19 +12,19 @@
 ## Skills used for this project
 
 - Python ('https://www.python.org/downloads/')
-- HTML
-- CSS
-- Bootstrap
+- HTML ('https://www.w3schools.com/html/')
+- CSS ('https://www.w3schools.com/css/default.asp')
+- Bootstrap('http://getbootstrap.com/')
 - Flask ('http://flask.pocoo.org/')
 - Jinja2 ('http://jinja.pocoo.org/')
 - SQLAchemy ('https://www.sqlalchemy.org/download.html)
-- OAuth 
-- Facebook / Google Login
+- OAuth ('https://developers.google.com/identity/protocols/OAuth2')
+- Facebook ('https://developers.facebook.com/docs/facebook-login/web')  / Google Login 
 - Some things you might need
 
-Vagrant
-Udacity Vagrantfile
-VirtualBox
+Vagrant ('https://www.vagrantup.com/')
+Udacity Vagrantfile ('https://github.com/udacity/fullstack-nanodegree-vm')
+VirtualBox ('https://www.virtualbox.org/wiki/Downloads')
 Getting Started
 
 Install Vagrant and VirtualBox
