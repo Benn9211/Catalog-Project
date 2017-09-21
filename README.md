@@ -22,10 +22,11 @@
 - Facebook ('https://developers.facebook.com/docs/facebook-login/web')  / Google Login 
 - Some things you might need
 
-Vagrant ('https://www.vagrantup.com/')
-Udacity Vagrantfile ('https://github.com/udacity/fullstack-nanodegree-vm')
-VirtualBox ('https://www.virtualbox.org/wiki/Downloads')
-Getting Started
+1. Vagrant ('https://www.vagrantup.com/')
+2. Udacity Vagrantfile ('https://github.com/udacity/fullstack-nanodegree-vm')
+3. VirtualBox ('https://www.virtualbox.org/wiki/Downloads')
+
+#Getting Started
 
 Install Vagrant and VirtualBox
 Clone the Vagrantfile from the Udacity Repo
