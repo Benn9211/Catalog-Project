@@ -26,7 +26,7 @@
 2. Udacity Vagrantfile ('https://github.com/udacity/fullstack-nanodegree-vm')
 3. VirtualBox ('https://www.virtualbox.org/wiki/Downloads')
 
-#Getting Started
+# Getting Started
 
 Install Vagrant and VirtualBox
 Clone the Vagrantfile from the Udacity Repo
