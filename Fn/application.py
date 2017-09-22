@@ -61,7 +61,7 @@ def catalogItemJSON(category_id, catalog_item_id):
 
 
 @app.route('/api/v1/categories/JSON')
-def categoriesJSON():
+def categories():
     """Returns JSON of all categories in catalog"""
     categories = session.query(Category).all()
     return jsonify(Categories=[r.serialize for r in categories])
@@ -114,7 +114,7 @@ def newCategory():
 def editCategory(category_id):
     """Allows user to edit an existing category"""
     editedCategory = session.query(
-        Category).filter_by(id=category_id).one()
+        Category).filter_by(id=category_id).one_or_none()
     if editedCategory.user_id != login_session['user_id']:
         return "<script>function myFunction() {alert('You are not authorized!')}</script><body onload='myFunction()'>"  # noqa
     if request.method == 'POST':
@@ -434,7 +434,9 @@ def gconnect():
     output += '!</h1>'
     output += '<img src="'
     output += login_session['picture']
-    output += ' " style = "width: 300px; height: 300px;border-radius: 150px;-webkit-border-radius: 150px;-moz-border-radius: 150px;"> '  # noqa
+    output += ' " style = "width: 300px; height: 300px;'\
+        'border-radius: 150px;-webkit-border-radius: 150px;'\
+        '-moz-border-radius: 150px;"> '  # noqa
     flash("you are now logged in as %s" % login_session['username'], 'success')
     print "done!"
     return output
