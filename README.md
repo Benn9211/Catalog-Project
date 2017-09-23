@@ -38,7 +38,7 @@ go to http://localhost/categories to access the application
 
 # OR
 
-*if first time running, you must add a category before adding an item
+* if first time running, you must add a category before adding an item
 
 ## You will need:
   - [Subkime Text](https://www.sublimetext.com/)
