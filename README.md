@@ -11,20 +11,20 @@
 
 ## Skills used for this project
 
-- Python ('https://www.python.org/downloads/')
-- HTML ('https://www.w3schools.com/html/')
-- CSS ('https://www.w3schools.com/css/default.asp')
-- Bootstrap('http://getbootstrap.com/')
-- Flask ('http://flask.pocoo.org/')
-- Jinja2 ('http://jinja.pocoo.org/')
-- SQLAchemy ('https://www.sqlalchemy.org/download.html)
-- OAuth ('https://developers.google.com/identity/protocols/OAuth2')
-- Facebook ('https://developers.facebook.com/docs/facebook-login/web')  / Google Login 
+- * [Python]('https://www.python.org/downloads/')
+- *[HTML]('https://www.w3schools.com/html/')
+- *[CSS]('https://www.w3schools.com/css/default.asp')
+- *[Bootstrap]('http://getbootstrap.com/')
+- *[Flask]('http://flask.pocoo.org/')
+- *[Jinja2]('http://jinja.pocoo.org/')
+- *[SQLAchemy]('https://www.sqlalchemy.org/download.html)
+- *[OAuth]('https://developers.google.com/identity/protocols/OAuth2')
+- *[Facebook]('https://developers.facebook.com/docs/facebook-login/web')  / Google Login 
 - Some things you might need
 
-1. Vagrant ('https://www.vagrantup.com/')
-2. Udacity Vagrantfile ('https://github.com/udacity/fullstack-nanodegree-vm')
-3. VirtualBox ('https://www.virtualbox.org/wiki/Downloads')
+1. *[Vagrant]('https://www.vagrantup.com/')
+2. *[Udacity Vagrantfile]('https://github.com/udacity/fullstack-nanodegree-vm')
+3. *[VirtualBox]('https://www.virtualbox.org/wiki/Downloads')
 
 # Getting Started
 
@@ -41,10 +41,10 @@ go to http://localhost/categories to access the application
 *if first time running, you must add a category before adding an item
 
 ## You will need:
-  - Subkime Text ('https://www.sublimetext.com/')
-  - Python3 ('https://www.python.org/downloads/')
-  - Vagrant ('https://www.vagrantup.com/downloads.html')
-  - VirtualBox ('https://www.virtualbox.org/')
+  - *[Subkime Text] ('https://www.sublimetext.com/')
+  - *[Python3] ('https://www.python.org/downloads/')
+  - *[Vagrant] ('https://www.vagrantup.com/downloads.html')
+  - *[VirtualBox] ('https://www.virtualbox.org/')
   - Setup all these
   -Install Vagrant,VirtualBox,Sublime Text and Python3 or 2.7' in to Machine  
 
