@@ -54,7 +54,7 @@ go to http://localhost/categories to access the application
    - Launch Vagrant VM by running vagrant up, you can the log in with vagrant ssh
    
   # OR
-   - You can run Putty on windows in order run [vagrant file.](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+   - You can run Putty on windows in order run vagrant file. [Click Here](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
 ## The database includes three tables:
 
@@ -68,4 +68,4 @@ go to http://localhost/categories to access the application
   2. Run your application within the VM
   
   ```
-    $ python /vagrant/catalog/main.py
+    $ python /vagrant/fn/catalog/application.py
