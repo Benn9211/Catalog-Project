@@ -68,4 +68,4 @@ go to http://localhost/categories to access the application
   2. Run your application within the VM
   
   ```
-    $ python /vagrant/fn/catalog/application.py
+    $ python /vagrant/fn/application.py
