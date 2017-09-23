@@ -49,13 +49,23 @@ go to http://localhost/categories to access the application
   - Install Vagrant,VirtualBox,Sublime Text and Python3 or 2.7' in to Machine  
 
 ## Go to GitHUb
-   > Clone this repository ('https://github.com/Benn9211/Full-stack-Vangrant-repos')
+   > [Clone this repository](https://github.com/Benn9211/Full-stack-Vangrant-repos)
    - To Run
    - Launch Vagrant VM by running vagrant up, you can the log in with vagrant ssh
    
   # OR
-   - You can run Putty on windows in order run vagrant file.('https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html')
+   - You can run Putty on windows in order run [vagrant file.](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
 ## The database includes three tables:
 
    - To execute the program, run python3 or python2.7 application.py from the command line useing Vagrent Terminal.
+#### Launch Project
+  1. Launch the Vagrant VM using command:
+  
+  ```
+    $ vagrant up
+  ```
+  2. Run your application within the VM
+  
+  ```
+    $ python /vagrant/catalog/main.py
