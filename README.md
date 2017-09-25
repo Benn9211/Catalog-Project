@@ -69,3 +69,5 @@ go to http://localhost/categories to access the application
   
   ```
     $ python /vagrant/fn/application.py
+    
+  3. Access and test your application by visiting http://localhost:8000.
