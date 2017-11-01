@@ -1,4 +1,4 @@
-# Udacity Catalog-Project 
+# Udacity Catalog Project 
 - Bhanu Singh 
 # To Run
 ## About
